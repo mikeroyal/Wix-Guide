@@ -14,9 +14,9 @@
 
 2. [Wix Tools & Frameworks](https://github.com/mikeroyal/Wix-Guide#wix-tools--frameworks)
 
-3. [HTML/CSS Development](https://github.com/mikeroyal/Wix-Guide#htmlcss-development)
+3. [HTML/CSS Development](https://github.com/mikeroyal/Wix-Guide#html-css-development)
 
-4. [JavaScript/TypeScript Development](https://github.com/mikeroyal/Wix-Guide#javascripttypescript-development)
+4. [JavaScript/TypeScript Development](https://github.com/mikeroyal/Wix-Guide#typescript-development)
 
 5. [PHP Development](https://github.com/mikeroyal/Wix-Guide#php-development)
 
@@ -375,7 +375,6 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719684-07282300-fb39-11ea-98fd-90394a2df6f2.png">
   <br />
-  Ruby Guide
 </p>
 
 # Ruby Learning Resources
@@ -440,10 +439,10 @@
 # Java Development
 [Back to the Top](https://github.com/mikeroyal/Wix-Guide#table-of-contents)
 
-<h1 align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93925952-c0b6fd80-fccb-11ea-9f90-21c4148e3c86.png">
   <br />
-</h1>
+</p>
 
 ## Java Learning Resources
 
