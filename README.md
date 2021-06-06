@@ -8,6 +8,8 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
+# Table of Contents
+
 1. [Wix Learning Resources](https://github.com/mikeroyal/Wix-Guide#wix-learning-resources)
 
 2. [Wix Tools & Frameworks](https://github.com/mikeroyal/Wix-Guide#wix-tools--frameworks)
