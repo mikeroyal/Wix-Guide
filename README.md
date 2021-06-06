@@ -14,7 +14,7 @@
 
 2. [Wix Tools & Frameworks](https://github.com/mikeroyal/Wix-Guide#wix-tools--frameworks)
 
-3. [HTML/CSS Development](https://github.com/mikeroyal/Wix-Guide#htmlcss-development)
+3. [HTML/CSS Development](https://github.com/mikeroyal/Wix-Guide#hmtlcss-development)
 
 4. [JavaScript/TypeScript Development](https://github.com/mikeroyal/Wix-Guide#typescript-development)
 
